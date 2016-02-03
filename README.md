@@ -14,6 +14,11 @@ Seed project to bootstrap CPP project powered with node.js toolchain
 make configure
 ```
 
+* build 
+```
+make build
+```
+
 * build on change
 ```
 make watch
